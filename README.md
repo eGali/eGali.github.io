@@ -1,3 +1,3 @@
-# eGali.github.io
+Edgar Galindo
 
-site
+About Me:
