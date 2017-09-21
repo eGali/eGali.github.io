@@ -1,4 +1,4 @@
-#### About Me:
+## About Me:
 ### Hi, I'm Edgar.
 I graduated recently from California State University Los Angeles with a **B.S. in Computer Science**.
 
